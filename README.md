@@ -3,8 +3,8 @@
 This is where you can find some of my best projects from grade 12 Computer Science, across multpile platforms.
 
 
-##Khan Academy
+## Khan Academy
 
-##Free Code Camp
+## Free Code Camp
 
-##P5.js
+## P5.js
