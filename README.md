@@ -1,6 +1,7 @@
 # Erik's ICS-4U Portfolio
 
-This is where you can find some of my best projects from grade 12 Computer Science, across multpile platforms.
+This is a collection of the work I've done during my final year of Computer Science at A.Y. Jackson. Here you can find some of 
+my best projects across different platforms, as well as personal reflections of my work.
 
 
 ## Khan Academy
