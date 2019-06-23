@@ -1,7 +1,6 @@
 # Erik's ICS-4U Portfolio
 
-This is a collection of the work I've done during my final year of Computer Science at A.Y. Jackson. Here you can find some of 
-my best projects across different platforms, as well as personal reflections of my work.
+My name's Erik Menhart, I'm a student about to graduate from A.Y. Jackson High School. I plan on studying computer science at Nipissing University. In this portfolio you can find some of my best work that I did in grade 12 computer science. You can also see some of the modules I've worked through my years included with personal responces based on what I've learned. Here you will be able to see what I'm experienced with and some of my work.
 
 
 ## Khan Academy
