@@ -33,17 +33,14 @@ my best projects across different platforms, as well as personal reflections of 
 
 ## Free Code Camp
 ### 6. Debbuging
-<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
 
   This is a great course as it gives you a great understanding of how to identify the problems and errors in code and what to do to rectify the issues. This was useful for my studies this year and in the future as now I can keep my code cleaner with fewer syntax errors, and if needed I can identify errors in the code. Lastly I am able to debbug the code appropriately.
 
 ### 7. Basic Data Structres
-<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
 
   The Basic Data Structres module gives a thorough lesson about arrays and how to manipulate them to your effectiveness. It was very good at quickly and cleanly showing you how to work with arrays in a all types of scenarios. However some of the later lessons weren't working properly and would allow me to continue.
 
 ### 8. Basic Algorithm Scrpiting
-<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
 
   A fantastic continuation of basic algorithm, learning more algorithm scripting is really benificial due to my future in computer science. I found this module much better then khan academy as it gives you a chance to run through so many scenarios and figure out how to solve each of them. Very helpful towards understanding what algorithms are and why they're important for computer science.
 
