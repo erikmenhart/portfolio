@@ -5,21 +5,31 @@ my best projects across different platforms, as well as personal reflections of 
 
 
 ## Khan Academy
-###1. Making Webpages interactive(HTML/CSS)
-###2. Basic Js(JavaScript)
-###3. Natural Simulations
-###4. Algorithms
+### 1. Basic HTML/CSS
+<a target="https://github.com/erikmenhart/khan-acedmy-projects/tree/master/html">Click here to see projects</a>
+### 2. Basic Js(JavaScript)
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
+### 3. Natural Simulations
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
+### 4. Algorithms
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
+### 5. Making Websites interactive
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
 
 ## Free Code Camp
-###5. Debbuging
-###6. Basic Data Structres
+### 6. Debbuging
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
+### 7. Basic Data Structres
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
+### 8. Basic Algorithm Scrpiting
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
 
 ## P5.js
-###7. Bees and Bombs(Coding Challenge)
-###8. Math Rose
-<ul>
-  <li>
-    <a href="https://github.com/erikmenhart/portfolio/blob/master/MathRose"> Math Rose </a>
-  </li>
-</ul>
-  
+### 9. Bees and Bombs(Coding Challenge)
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
+### 10. Math Rose
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
+
+## Bonus
+### Microbit
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
