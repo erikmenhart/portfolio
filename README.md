@@ -26,6 +26,7 @@ My name's Erik Menhart, I'm a student about to graduate from A.Y. Jackson High S
 <a target="_blank" href="https://github.com/erikmenhart/khan-acedmy-projects/tree/master/Algorithms">Click here to see projects</a>
 
   Algorithms have been one of the biggest aspects of computer science but up until now I haven't been able to fully visualize what it looked like in code. This module taught me all sorts of algorithms like selection sort and pseudo code and now feel good about continuing my education with it.
+  
 ![alt text](https://github.com/erikmenhart/khan-acedmy-projects/blob/master/Algorithms/selection.PNG)
   
 ### 5. Making Websites interactive
