@@ -8,6 +8,7 @@ My name's Erik Menhart, I'm a student about to graduate from A.Y. Jackson High S
 <a target="_blank" href="https://github.com/erikmenhart/khan-acedmy-projects/tree/master/html">Click here to see projects</a>
 
   Working with HTML is how I decided to continue with computer science, while working through I realized how working with websites and coding in general was interesting. I thought it was a great way to start getting into a coding mind set and learning how to work with code productively. Thanks to those basic skills I was able to understand working basically with webpages, and even creating my own.
+  ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
   
 ### 2. Basic Js(JavaScript)
 <a target="_blank" href="https://github.com/erikmenhart/khan-acedmy-projects/tree/master/js">Click here to see projects</a>
