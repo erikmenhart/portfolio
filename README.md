@@ -25,7 +25,6 @@ My name's Erik Menhart, I'm a student about to graduate from A.Y. Jackson High S
   Algorithms have been one of the biggest aspects of computer science but up until now I haven't been able to fully visualize what it looked like in code. This module taught me all sorts of algorithms like selection sort and pseudo code and now feel good about continuing my education with it.
   
 ### 5. Making Websites interactive
-<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
 
   This module taught a much more advanced way of coding html, this allowed a much more complex way to work with websites. It allows for creating a much more advanced and interactive website. Learning things like how to make a slideshow or utelize buttons and such on screen. It also showed me how to combine Html with other languages that we've used, which will be useful in future website building.  
 
