@@ -6,7 +6,7 @@ my best projects across different platforms, as well as personal reflections of 
 
 ## Khan Academy
 ### 1. Basic HTML/CSS
-<a target="https://github.com/erikmenhart/khan-acedmy-projects/tree/master/html">Click here to see projects</a>
+<a target="_blank" href="https://github.com/erikmenhart/khan-acedmy-projects/tree/master/html">Click here to see projects</a>
 ### 2. Basic Js(JavaScript)
 <a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Click here to see projects</a>
 ### 3. Natural Simulations
