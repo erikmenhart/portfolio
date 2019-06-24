@@ -20,6 +20,7 @@ My name's Erik Menhart, I'm a student about to graduate from A.Y. Jackson High S
 <a target="_blank" href="https://github.com/erikmenhart/khan-acedmy-projects/tree/master/natSimulations">Click here to see projects</a>
 
   Without a doubt the hardest and more important course I took. Natural Simulations included many concepts used in real world physics and math that I was then taught how to apply to coding. Although it was hard to learn in a shorter period of time now at the end of it I am extremely thankful that I understand many of the things taught such as object-oriented coding that I will come across again in my future education and career.
+  
 ![alt text](https://github.com/erikmenhart/khan-acedmy-projects/blob/master/natSimulations/creat.PNG)
   
 ### 4. Algorithms
